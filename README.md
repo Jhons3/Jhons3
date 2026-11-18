@@ -1,6 +1,8 @@
-# Hola, soy [JHON SALAZAR]
+# Hola, soy [JHON SALAZAR] INGENIERO EN SISTEMAS DE LA INFORMACIÓN 
 
-Analista de datos, de la ciudad Quito, Ecuador. Me interesa convertir datos en decisiones claras para tu negocio y aportar en la toma de decisiones.
+Analista de datos, de la ciudad Quito, Ecuador. Me interesa convertir datos en decisiones claras para tu negocio y aportar en la toma de decisiones. Mi lema es 
+«No necesito un cargo para liderar: lidero con mi ejemplo, mi compromiso y la excelencia en cada
+tarea.»
 
 ## Herramientas
 - Python (pandas, NumPy, Matplotlib, Seaborn)
@@ -16,5 +18,5 @@ Analista de datos, de la ciudad Quito, Ecuador. Me interesa convertir datos en d
 Estadística aplicada, Power BI y dashboards.
 
 ## Contacto
-- LinkedIn: [Mi perfil]([https://www.linkedin.com/in/tu-nombre-123abc](https://www.linkedin.com/in/jhon-salazar-65b924359))
+- LinkedIn: [Mi perfil](https://www.linkedin.com/in/jhon-salazar-65b924359)
 - Correo: jhon.salazar15@hotmail.com
