@@ -30,5 +30,7 @@ Estadística aplicada, Power BI y dashboards.
 - LinkedIn: [Mi perfil](https://www.linkedin.com/in/jhon-salazar-65b924359)
 - ORCID: [0009-0001-1768-9719](https://orcid.org/0009-0001-1768-9719)
 - Correo: jhon.salazar15@hotmail.com
+- WhatsApp: [+593 97 900 7243](https://wa.me/593979007243)
+- Celular: +593 97 900 7243
 
 *No necesito un cargo para liderar: lidero con mi ejemplo, mi compromiso y la excelencia en cada tarea.*
