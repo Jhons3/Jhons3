@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy [JHON SALAZAR]
 
-<!--
-**Jhons3/Jhons3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos, de la ciudad Quito, Ecuador. Me interesa convertir datos en decisiones claras para tu negocio y aportar en la toma de decisiones.
 
-Here are some ideas to get you started:
+## Herramientas
+- Python (pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel
+- Power bi
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [Portafolio de análisis de datos](https://github.com/Jhons3/portafolio-analisis-datos): limpieza, análisis y visualización de datos para tu negocio.
+
+## Qué estoy aprendiendo
+Estadística aplicada, Power BI y dashboards.
+
+## Contacto
+- LinkedIn: [Mi perfil]([https://www.linkedin.com/in/tu-nombre-123abc](https://www.linkedin.com/in/jhon-salazar-65b924359))
+- Correo: jhon.salazar15@hotmail.com
