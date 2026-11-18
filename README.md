@@ -21,7 +21,7 @@ Desarrollo soluciones internas en Busimott, entre ellas un CRM en la nube para e
 - **Importancia de la calidad de datos en dispositivos IoT**. Artículo científico publicado. [Ver mi perfil en ORCID](https://orcid.org/0009-0001-1768-9719)
 
 ## Seguridad de la información
-Diseñé un modelo de respuesta a incidentes basado en NIST SP 800-61 con principios Zero Trust para una PYME de 19 empleados, alineado con ISO/IEC 27001:2022.
+Diseñé e implemente un modelo de respuesta a incidentes basado en NIST SP 800-61 con principios Zero Trust para una PYME de 19 empleados, alineado con ISO/IEC 27001:2022. con el objetivo de que empresas que no tienen mucho personal tecnico o no tiene tanto conocimiento en tecnologia puedan organizarse y mantener el controlo frente a un incidente
 
 ## Qué estoy aprendiendo
 Estadística aplicada, Power BI y dashboards.
