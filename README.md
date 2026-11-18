@@ -1,4 +1,4 @@
-# Hola, soy [JHON SALAZAR] INGENIERO EN SISTEMAS DE LA INFORMACIÓN 
+# HOLA, SOY JHON SALAZAR INGENIERO EN SISTEMAS DE LA INFORMACIÓN 
 
 Analista de datos, de la ciudad Quito, Ecuador. Me interesa convertir datos en decisiones claras para tu negocio y aportar en la toma de decisiones. Mi lema es 
 «No necesito un cargo para liderar: lidero con mi ejemplo, mi compromiso y la excelencia en cada
